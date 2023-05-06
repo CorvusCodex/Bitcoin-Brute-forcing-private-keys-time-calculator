@@ -5,9 +5,9 @@ The probability of cracking a Bitcoin address by randomly guessing private keys 
 
 In other words, it is practically impossible to crack a Bitcoin address by brute force. This is one of the reasons why Bitcoin is considered to be secureS
 
-Support my work:
-BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3
-ETH: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0
+Support my work:<br>
+BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
+ETH: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
 
 # Disclaimer
 
